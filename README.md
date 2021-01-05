@@ -1,1 +1,1 @@
-# LinuxAdministratus
+# Цель работы
